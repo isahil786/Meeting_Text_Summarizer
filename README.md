@@ -1,0 +1,1 @@
+# A full-stack web app for summarizing lecture and meeting notes. Users register and log in (JWT-based auth), paste in raw text, and get back an AI-generated summary powered by Hugging Face's T5-small transformer model. Summaries are stored in MySQL and automatically emailed to the user. The frontend is built with React (Vite), and the backend with Flask.
