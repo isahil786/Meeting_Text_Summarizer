@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-jwt-extended
+flask-mail
+mysql-connector-python
+bcrypt
+transformers
+torch
